@@ -1,0 +1,16 @@
+# 环境与密钥
+.env
+.env.*
+
+# 日志
+*.log
+
+# 敏感内容
+*secret*
+*token*
+*credential*
+
+# 本地缓存与配置
+backups/
+archives/
+.claude/
