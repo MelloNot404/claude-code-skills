@@ -14,3 +14,6 @@
 backups/
 archives/
 .claude/
+
+# 本地会话归档（end skill 生成）
+worklog/
