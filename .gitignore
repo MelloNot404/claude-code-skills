@@ -9,11 +9,17 @@
 *secret*
 *token*
 *credential*
+*password*
+*apikey*
+*api-key*
 
 # 本地缓存与配置
 backups/
 archives/
 .claude/
+*.bak
+*.tmp
+*.local
 
 # 本地会话归档（end skill 生成）
 worklog/
